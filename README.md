@@ -1,4 +1,4 @@
-# ECE118 FinalProject
+# ECE118 FinalProject Soccer Droid
 
 ## Name
 Mech Final Project -- The M.E Complexity --
